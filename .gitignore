@@ -29,3 +29,4 @@
 Pandora-Client
 *.pem
 *.yaml
+go.work*

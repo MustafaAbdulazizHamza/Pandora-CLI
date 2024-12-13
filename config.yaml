@@ -1,0 +1,7 @@
+url: "https://IP:Port/"
+root_username: ""
+root_password: ""
+username: ""
+password: ""
+private_key: "*.pem"
+public_key: "*.pem"
